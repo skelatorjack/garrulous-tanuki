@@ -1,2 +1,2 @@
 # garrulous-tanuki
-myproject
+This repository contains all projects related to school
